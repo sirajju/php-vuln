@@ -1,0 +1,2 @@
+host,url,php_version,status,detail
+sepahan.com,https://sepahan.com,8.2.34,VULNERABLE,8.2.34 < 8.2.35; upgrade to 8.2.35
